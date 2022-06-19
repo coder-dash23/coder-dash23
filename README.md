@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  GitHub Profile README Generator
+  Holla, I'm Adarsh Jaiswal
 </h1>
 
 <p align="center">
