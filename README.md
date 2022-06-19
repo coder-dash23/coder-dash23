@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Holla, I'm Adarsh Jaiswal
+  Holla, Myself Adarsh Jaiswal
 </h1>
 
 <p align="center">
